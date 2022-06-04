@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 538.136 sec <<< FAILURE! - in TestSuite
+Countries04_getConfirmedByCountriesTest(tests.CovidTest)  Time elapsed: 0.915 sec  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: not <0>
+     but: was <0>
+	at tests.CovidTest.Countries04_getConfirmedByCountriesTest(CovidTest.java:184)
+

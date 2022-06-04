@@ -1,0 +1,12 @@
+/Users/mbeider/IdeaProjects/api-project/src/test/java/responses/BaseResponse.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/testsuite/APITestSuite.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/testsuite/SmokeTestSuite.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/responses/CountriesResponse.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/config/BaseAPIConfig.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/testsuite/RegressionTest.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/testsuite/SmokeTest.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/request/BaseRequest.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/enums/ResponseStatus.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/request/CountriesRequest.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/tests/CovidTest.java
+/Users/mbeider/IdeaProjects/api-project/src/test/java/config/APIConfig.java

@@ -1,0 +1,13 @@
+testsuite/APITestSuite.class
+responses/CountriesResponse.class
+testsuite/SmokeTest.class
+testsuite/SmokeTestSuite.class
+config/BaseAPIConfig$1.class
+enums/ResponseStatus.class
+config/APIConfig.class
+testsuite/RegressionTest.class
+request/BaseRequest.class
+request/CountriesRequest.class
+responses/BaseResponse.class
+tests/CovidTest.class
+config/BaseAPIConfig.class

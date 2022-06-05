@@ -181,7 +181,7 @@ public class CovidTest extends APIConfig{
             assertThat(new JsonPath(province.toString()).getString("CityCode"), equalTo(""));
             assertThat(new JsonPath(province.toString()).getString("Lat").matches(regFloatValidation), equalTo(true));
             assertThat(new JsonPath(province.toString()).getString("Lon").matches(regFloatValidation), equalTo(true));
-            assertThat(new JsonPath(province.toString()).getInt("Cases"), not(0));
+            assertThat(new JsonPath(province.toString()).getInt("Cases"), not(null));
             assertThat(new JsonPath(province.toString()).getString("Status"), equalTo("confirmed"));
             assertThat(new JsonPath(province.toString()).getString("Date").matches(regDateValidation), equalTo(true));
         }
